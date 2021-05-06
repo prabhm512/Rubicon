@@ -1,0 +1,28 @@
+div {
+	margin: 0;
+	padding: 0;
+}
+button {
+	margin: 5px;
+}
+.ui-datepicker-year {
+	padding: 0;
+	border: none;
+}
+dropdown {
+	padding: 0;
+	border: thin solid silver;
+}
+
+.ui-widget {
+	font-family: inherit;
+	font-size: 1.0em;
+}
+
+.standard-sizing {
+	width: 100%;
+	min-width: 100px;
+	max-width: 400px;
+	box-sizing: border-box;
+	margin-bottom: 2px;
+}
